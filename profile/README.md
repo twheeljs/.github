@@ -1,5 +1,4 @@
-
-![Use lint](https://user-images.githubusercontent.com/28384700/235082170-3d868ba2-2f4e-4ad7-a187-8f35dbedd744.png)
+### hey there 👋
 
 <!--
 
